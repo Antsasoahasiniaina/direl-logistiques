@@ -1,0 +1,10 @@
+customtkinter==5.2.2
+matplotlib>=3.8
+psycopg2-binary>=2.9
+opencv-python>=4.9
+pyzbar>=0.1.9
+qrcode[pil]>=7.4
+pandas>=2.2
+numpy>=1.26
+reportlab>=4.1
+openpyxl>=3.1
